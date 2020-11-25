@@ -4,7 +4,7 @@ on:
     branches: [ main ]
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *' # 北京时间每天8点0分
+    - cron: '0 22,6 * * *' # 北京时间每天6点22点
 
 jobs:
   checkin:
