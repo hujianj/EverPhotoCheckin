@@ -1,6 +1,6 @@
 # EverPhotoCheckin
 
-[时光相册](https://web.everphoto.cn) 签到助手，利用GitHub Actions每天自动执行。
+[时光相册](https://web.everphoto.cn) 签到助手，利用GitHub Actions每天自动执行
 
 ![demo](imgs/checkin.png)
 
